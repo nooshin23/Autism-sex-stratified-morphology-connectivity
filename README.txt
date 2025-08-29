@@ -1,4 +1,5 @@
 This repository contains the scripts and supporting code used in the analysis pipeline for the study titled "Brain Morphology Network Alterations in Adolescents with Autism Spectrum Disorder: A Sex-Stratified Study". The goal of this project is to characterize sex-specific alterations in brain morphology-based connectivity using multivariate morphometric features derived from T1-weighted MRI.
+Link to biorxiv for this paper : https://www.biorxiv.org/cgi/content/short/2025.08.28.672884v1
 
 Methods Summary
 
@@ -35,5 +36,6 @@ Feature Contribution Analysis:
 A leave-one-feature-out approach assessed the importance of each morphometric feature via changes in AUC in ROC classification.
 
 Post-hoc Correlation:
+
 
 Partial correlations were performed between subnetwork strength and behavioral scores (ADI-R, ADOS-2, CBCL) in the ASD group.
